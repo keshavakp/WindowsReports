@@ -7,3 +7,6 @@ E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.csproj.G
 E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.exe
 E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.pdb
 E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.Sample.resources
+E:\SampleGIT\BOReports\bin\Debug\BOReports.exe.config
+E:\SampleGIT\BOReports\obj\Debug\BOReports.exe
+E:\SampleGIT\BOReports\obj\Debug\BOReports.pdb
