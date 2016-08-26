@@ -67,7 +67,7 @@ namespace BOReports
 
             }
             trans.Dispose();
-
+            //
             CloseConnection();
         }
     }
