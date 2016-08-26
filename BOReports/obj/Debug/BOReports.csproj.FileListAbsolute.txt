@@ -1,0 +1,9 @@
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\bin\Debug\BOReports.exe.config
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\bin\Debug\BOReports.exe
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\bin\Debug\BOReports.pdb
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.csprojResolveAssemblyReference.cache
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.Properties.Resources.resources
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.csproj.GenerateResource.Cache
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.exe
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.pdb
+E:\TG_Apps_DontOPen\Windows_App\BOReports\BOReports\obj\Debug\BOReports.Sample.resources
